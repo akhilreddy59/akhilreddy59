@@ -10,7 +10,7 @@ I’m a curious and motivated learner exploring AI and frontend development. I e
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akhilreddy59&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akhilreddy59&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilreddy59&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilreddy59&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akhilreddy59&theme=holi&no-frame=false&no-bg=true&margin-w=4)
