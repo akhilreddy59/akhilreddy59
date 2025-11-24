@@ -1,4 +1,4 @@
-# 💫 Profile :
+# 💫 Bio:
 I’m a curious and motivated learner exploring AI and frontend development. I enjoy turning ideas into simple, user-friendly solutions, and I’m always excited to learn new tools, take on challenges, and grow through collaboration
 
 # 💻 Tech Stack:
