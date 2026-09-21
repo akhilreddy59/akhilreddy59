@@ -59,16 +59,12 @@ I'm a Computer Science student who enjoys turning ideas into simple, user-friend
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akhilreddy59&show_icons=true&theme=rose&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilreddy59&layout=compact&theme=rose&hide_border=false&langs_count=8" />
+  <img height="165" src="https://github-readme-stats-sage-beta-86.vercel.app/api?username=akhilreddy59&show_icons=true&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF2E88&text_color=B9A9E0" />
+  <img height="165" src="https://github-readme-stats-sage-beta-86.vercel.app/api/top-langs/?username=akhilreddy59&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=B9A9E0&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akhilreddy59&theme=rose&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilreddy59&theme=holi&no-frame=false&no-bg=true&margin-w=4&row=1" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akhilreddy59&hide_border=true&background=0D0221&ring=FF2E88&fire=FFD400&currStreakLabel=00F0FF&sideLabels=B9A9E0&dates=B9A9E0&currStreakNum=F5F0FF&sideNums=F5F0FF" />
 </p>
 
 ---
