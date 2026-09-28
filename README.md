@@ -12,7 +12,7 @@
 I'm a Computer Science student who enjoys turning ideas into simple, user-friendly products — from full-stack web apps to AI-powered automations. My core stack is **MERN**, and I'm increasingly building with **LLM APIs (Claude, OpenAI, Gemini)** and workflow tools like **n8n** and **Make** to automate real-world tasks.
 
 - 🎓 B.Tech Computer Science student, graduating 2027
-- 💼 Full Stack & AI Intern at **Larsen & Toubro (L&T)**
+- 💼 EX - Full Stack & AI Intern at **Larsen & Toubro (L&T)**
 - 🌱 Currently deepening my skills in AI-assisted product building and automation pipelines
 - 📫 Reach me at **akhilkumarreddy2006@gmail.com**
 
