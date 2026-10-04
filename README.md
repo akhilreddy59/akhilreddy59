@@ -75,7 +75,7 @@ I'm a Computer Science student who enjoys turning ideas into simple, user-friend
   <a href="https://www.linkedin.com/in/akhilkumarreddy09/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:akhilkumarreddy2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.behance.net/uppalbranch"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
-  <a href="https://instagram.com/10.0.0.9_a"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/akhilreddy__9"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ Open to full-stack & AI/automation opportunities — always happy to connect and collaborate!</i></p>
