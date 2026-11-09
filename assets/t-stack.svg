@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Toolbox">
+<defs><linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#00F0FF"/></linearGradient><linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#00F0FF"/><stop offset="1" stop-color="#FF2E88"/></linearGradient></defs>
+<style>.u{stroke-dasharray:120;stroke-dashoffset:120;animation:dr 1.4s .2s ease-out forwards}@keyframes dr{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.u{animation:none;stroke-dashoffset:0}}</style>
+<g font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"><text x="600" y="52" text-anchor="middle" font-size="40" font-weight="800" letter-spacing="-1" fill="url(#tg)">Toolbox</text>
+<text x="600" y="82" text-anchor="middle" font-size="16" fill="#B9A9E0">What I build with</text></g>
+<line class="u" x1="540" x2="660" y1="98" y2="98" stroke="url(#ul)" stroke-width="3" stroke-linecap="round"/></svg>

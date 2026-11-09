@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 190" width="560" height="190" role="img" aria-label="Diabetic Retinopathy">
+<defs><linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#00F0FF" stop-opacity="0"/><stop offset=".5" stop-color="#00F0FF" stop-opacity=".22"/><stop offset="1" stop-color="#00F0FF" stop-opacity="0"/></linearGradient>
+<linearGradient id="cb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a0d3d"/><stop offset="1" stop-color="#0f0628"/></linearGradient><clipPath id="c"><rect width="560" height="190" rx="18"/></clipPath></defs>
+<style>.s{animation:w 7s 2.4s ease-in-out infinite}@keyframes w{0%{transform:translateX(-300px)}35%,100%{transform:translateX(620px)}}@media (prefers-reduced-motion:reduce){.s{animation:none;opacity:0}}</style>
+<g clip-path="url(#c)"><rect width="560" height="190" fill="url(#cb)"/><rect class="s" x="0" y="0" width="260" height="190" fill="url(#sw)" transform="skewX(-18)"/>
+<circle cx="520" cy="30" r="90" fill="#00F0FF" fill-opacity=".07"/></g>
+<rect x=".5" y=".5" width="559" height="189" rx="18" fill="none" stroke="#00F0FF" stroke-opacity=".45"/>
+<g font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"><path d="M30 38 l12 -7 l12 7 v14 l-12 7 l-12 -7z M30 38 l12 7 l12 -7 M42 45 v14" fill="none" stroke="#00F0FF" stroke-width="2" stroke-linejoin="round"/>
+<text x="68" y="52" font-size="24" font-weight="800" fill="#fff">Diabetic Retinopathy</text><text x="30" y="98" font-size="16" fill="#B9A9E0">CNN that detects diabetic retinopathy in</text><text x="30" y="122" font-size="16" fill="#B9A9E0">retinal images.</text>
+<rect x="30" y="142" width="217" height="28" rx="14" fill="#00F0FF" fill-opacity=".12" stroke="#00F0FF" stroke-opacity=".55"/><circle cx="46" cy="156" r="4" fill="#00F0FF"/><text x="58" y="161" font-size="13" fill="#fff">Python, Deep Learning</text>
+<text x="530" y="161" text-anchor="end" font-size="13" fill="#00F0FF">Open project</text></g></svg>
