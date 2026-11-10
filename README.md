@@ -40,7 +40,7 @@ I recently finished a Full Stack & AI internship at **Larsen & Toubro**, and I'm
 
 <img src="assets/t-live.svg" alt="Activity" width="100%"/>
 
-<img height="165" src="https://github-readme-stats-sage-beta-86.vercel.app/api/top-langs/?username=akhilreddy59&layout=compact&hide_border=false&bg_color=FFFBF2&title_color=FF6B1A&text_color=1F1410&border_color=1F1410&langs_count=8" alt="Top languages"/>
+<img src="assets/languages.svg" alt="Most used languages" width="80%"/>
 
 <!-- Optional: contribution snake. Needs .github/workflows/snake.yml to run once. -->
 <img src="https://raw.githubusercontent.com/akhilreddy59/akhilreddy59/output/github-snake.svg" alt="Contribution snake" width="100%"/>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" role="img" aria-label="Languages card placeholder">
+<rect x="11" y="11" width="984" height="122" rx="16" fill="#FF6B1A" stroke="#1F1410" stroke-width="3"/><rect x="3" y="3" width="984" height="122" rx="16" fill="#FFFBF2" stroke="#1F1410" stroke-width="3"/>
+<text x="40" y="58" font-size="24" font-weight="900" fill="#1F1410" font-family="Georgia,serif">Most used languages</text>
+<text x="40" y="92" font-size="15" fill="#C2410C" font-family="'Courier New',Courier,monospace">Generating... run Actions, "Update languages card", Run workflow.</text></svg>
