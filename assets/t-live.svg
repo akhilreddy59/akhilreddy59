@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Activity">
-<defs><linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#00F0FF"/></linearGradient><linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#00F0FF"/><stop offset="1" stop-color="#FF2E88"/></linearGradient></defs>
-<style>.u{stroke-dasharray:120;stroke-dashoffset:120;animation:dr 1.4s .2s ease-out forwards}@keyframes dr{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.u{animation:none;stroke-dashoffset:0}}</style>
-<g font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"><text x="600" y="52" text-anchor="middle" font-size="40" font-weight="800" letter-spacing="-1" fill="url(#tg)">Activity</text>
-<text x="600" y="82" text-anchor="middle" font-size="16" fill="#B9A9E0">Code, contributions, and consistency</text></g>
-<line class="u" x1="540" x2="660" y1="98" y2="98" stroke="url(#ul)" stroke-width="3" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Activity">
+<style>.u{stroke-dasharray:300;stroke-dashoffset:300;animation:dr 1.3s .2s ease-out forwards}@keyframes dr{to{stroke-dashoffset:0}}@media (prefers-reduced-motion:reduce){.u{animation:none;stroke-dashoffset:0}}</style>
+<rect width="1200" height="120" rx="18" fill="#FFFBF2"/><g font-family="Georgia,'Times New Roman',serif" font-size="46" font-weight="900" text-anchor="middle" letter-spacing="-1"><text x="604" y="58" fill="#FF6B1A">Activity</text><text x="600" y="54" fill="#1F1410">Activity</text></g>
+<text x="600" y="84" text-anchor="middle" font-size="15" fill="#C2410C" font-family="'Courier New',Courier,monospace">code, contributions, consistency</text>
+<g stroke="#1F1410" stroke-width="3" stroke-linecap="round"><path class="u" d="M420 104 H560 M640 104 H780"/></g>
+<rect x="590" y="97" width="14" height="14" fill="#FF6B1A" stroke="#1F1410" stroke-width="2.5" transform="rotate(45 597 104)"/></svg>
