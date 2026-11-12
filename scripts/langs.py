@@ -19,22 +19,23 @@ for r in repos:
 top = sorted(totals.items(), key=lambda kv: -kv[1])[:6]
 total = sum(totals.values()) or 1
 
-rows, fills = "", [ORG, MUS, RED, ORG, MUS, RED]
-H = 70 + len(top) * 40 + 16
+rows = ""
+H = 74 + len(top) * 34 + 14
 for i, (lang, n) in enumerate(top):
-    y = 70 + i * 40; pct = n / total * 100; w = max(8, 600 * pct / 100 * (100 / (top[0][1] / total * 100)))
-    w = min(w, 600)
-    rows += f'''<text x="40" y="{y+20}" font-size="16" font-weight="700" fill="{INK}" font-family="'Courier New',Courier,monospace">{escape(lang)}</text>
-<rect x="230" y="{y+3}" width="600" height="24" rx="12" fill="{PAPER}" stroke="{INK}" stroke-width="2.5"/>
-<rect class="b" style="animation-delay:{i*0.12:.2f}s" x="232" y="{y+5}" width="{w-4:.0f}" height="20" rx="10" fill="{fills[i]}" stroke="{INK}" stroke-width="2"/>
-<text x="860" y="{y+20}" font-size="16" font-weight="700" fill="{RED}" font-family="'Courier New',Courier,monospace">{pct:.1f}%</text>'''
+    y = 70 + i * 34; pct = n / total * 100
+    w = max(4, 700 * (n / top[0][1]))
+    cls = "ac" if i == 0 else "ins2"
+    rows += f'''<text class="tx" x="28" y="{y+14}" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">{escape(lang)}</text>
+<rect x="190" y="{y+7}" width="700" height="6" rx="3" class="tr"/>
+<rect class="b {cls}" style="animation-delay:{i*0.1:.1f}s" x="190" y="{y+7}" width="{w:.0f}" height="6" rx="3"/>
+<text class="mu" x="972" y="{y+14}" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">{pct:.1f}%</text>'''
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 {H+8}" width="1000" height="{H+8}" role="img" aria-label="Most used languages">
-<style>.b{{transform-box:fill-box;transform-origin:left center;animation:g 1.1s cubic-bezier(.2,.9,.2,1) backwards}}@keyframes g{{from{{transform:scaleX(0)}}}}@media (prefers-reduced-motion:reduce){{.b{{animation:none}}}}</style>
-<rect x="11" y="11" width="984" height="{H-8}" rx="16" fill="{ORG}" stroke="{INK}" stroke-width="3"/>
-<rect x="3" y="3" width="984" height="{H-8}" rx="16" fill="{PAPER}" stroke="{INK}" stroke-width="3"/>
-<text x="40" y="46" font-size="24" font-weight="900" fill="{INK}" font-family="Georgia,serif">Most used languages</text>
-<text x="950" y="44" text-anchor="end" font-size="13" fill="{RED}" font-family="'Courier New',Courier,monospace">auto-updated daily</text>
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 {H}" width="1000" height="{H}" role="img" aria-label="Most used languages">
+<style>.tx{{fill:#111}}.mu{{fill:#6B6B6B}}.ac{{fill:#E8590C}}.ins2{{fill:#111}}.tr{{fill:#EFECE6}}.cf{{fill:#FAFAF8}}.bd{{stroke:#E4E1DB}}
+@media (prefers-color-scheme:dark){{.tx{{fill:#F2EFEA}}.mu{{fill:#9A9A9F}}.ac{{fill:#FF7A2E}}.ins2{{fill:#F2EFEA}}.tr{{fill:#23252B}}.cf{{fill:#12141A}}.bd{{stroke:#2B2D33}}}}
+.b{{transform-box:fill-box;transform-origin:left center;animation:g 1s cubic-bezier(.2,.9,.2,1) backwards}}@keyframes g{{from{{transform:scaleX(0)}}}}@media (prefers-reduced-motion:reduce){{.b{{animation:none}}}}</style>
+<rect x=".5" y=".5" width="999" height="{H-1}" rx="14" class="cf bd" stroke-width="1"/>
+<text class="mu" x="28" y="40" font-size="12" letter-spacing="2.4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">MOST USED LANGUAGES</text>
 {rows}</svg>'''
 os.makedirs("assets", exist_ok=True)
 open("assets/languages.svg", "w").write(svg)

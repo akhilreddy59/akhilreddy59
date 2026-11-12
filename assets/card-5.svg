@@ -1,13 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 198" width="568" height="198" role="img" aria-label="project-A">
-<defs><clipPath id="c"><rect x="3" y="3" width="552" height="182" rx="14"/></clipPath>
-<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#FFB627" stop-opacity="0"/><stop offset=".5" stop-color="#FFB627" stop-opacity=".25"/><stop offset="1" stop-color="#FFB627" stop-opacity="0"/></linearGradient></defs>
-<style>.s{animation:w 7s 3.2s ease-in-out infinite}@keyframes w{0%{transform:translateX(-300px)}35%,100%{transform:translateX(640px)}}@media (prefers-reduced-motion:reduce){.s{animation:none;opacity:0}}</style>
-<rect x="11" y="11" width="552" height="182" rx="14" fill="#FFB627" stroke="#1F1410" stroke-width="3"/>
-<rect x="3" y="3" width="552" height="182" rx="14" fill="#FFFBF2" stroke="#1F1410" stroke-width="3"/>
-<g clip-path="url(#c)"><rect x="3" y="3" width="552" height="36" fill="#FFB627"/><rect class="s" y="40" width="240" height="146" fill="url(#sw)" transform="skewX(-18)"/></g>
-<line x1="3" y1="39" x2="555" y2="39" stroke="#1F1410" stroke-width="3"/>
-<g stroke="#1F1410" stroke-width="2"><circle cx="24" cy="21" r="5.5" fill="#FFFBF2"/><circle cx="42" cy="21" r="5.5" fill="#FFFBF2"/><circle cx="60" cy="21" r="5.5" fill="#1F1410"/></g>
-<text x="544" y="26" text-anchor="end" font-size="13" font-weight="700" fill="#1F1410" font-family="'Courier New',Courier,monospace">~/project-A</text>
-<text x="28" y="82" font-size="26" font-weight="900" fill="#1F1410" font-family="Georgia,'Times New Roman',serif">project-A</text><text x="28" y="112" font-size="14" fill="#1F1410" font-family="'Courier New',Courier,monospace">Experimental build for testing new ideas and</text><text x="28" y="134" font-size="14" fill="#1F1410" font-family="'Courier New',Courier,monospace">patterns.</text>
-<g font-family="'Courier New',Courier,monospace"><rect x="28" y="142" width="138" height="30" rx="15" fill="#FFFBF2" stroke="#1F1410" stroke-width="2.5"/><circle cx="46" cy="157" r="5" fill="#FFB627" stroke="#1F1410" stroke-width="2"/><text x="105" y="162" text-anchor="middle" font-size="13" font-weight="700" fill="#1F1410">JavaScript</text>
-<text x="534" y="162" text-anchor="end" font-size="13" font-weight="700" fill="#C2410C">Open project</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 584 164" width="584" height="164" role="img" aria-label="project-A">
+<style>.tx{fill:#111}.mu{fill:#6B6B6B}.ac{fill:#E8590C}.bd{stroke:#E4E1DB}.cf{fill:#FAFAF8}.ins{stroke:#111}.acs{stroke:#E8590C}
+@media (prefers-color-scheme:dark){.tx{fill:#F2EFEA}.mu{fill:#9A9A9F}.ac{fill:#FF7A2E}.bd{stroke:#2B2D33}.cf{fill:#12141A}.ins{stroke:#F2EFEA}.acs{stroke:#FF7A2E}}</style>
+<rect x=".5" y=".5" width="583" height="163" rx="14" class="cf bd" stroke-width="1"/>
+<g font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif"><text class="tx" x="28" y="50" font-size="20" font-weight="600" letter-spacing="-.3">project-A</text><text class="mu" x="28" y="80" font-size="14.5">Experimental build for testing new ideas and patterns.</text>
+<circle class="ac" cx="32" cy="134" r="3.5"/><text class="mu" x="44" y="138" font-size="12.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">JavaScript</text>
+<text class="tx" x="538" y="138" text-anchor="end" font-size="13" font-weight="500">View project</text>
+<path class="ins" d="M546 134 h12 m-4 -4 l4 4 l-4 4" fill="none" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
