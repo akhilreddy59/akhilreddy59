@@ -28,4 +28,4 @@ Also built: an email-to-Notion automation and voice AI pipelines in n8n.
 
 ### Contact
 
-Open to full-stack and AI opportunities. The best way to reach me is [akhilkumarreddy2006@gmail.com](mailto:akhilkumarreddy2006@gmail.com).
+Open to Full-stack and AI opportunities. The best way to reach me is [akhilkumarreddy2006@gmail.com](mailto:akhilkumarreddy2006@gmail.com).
