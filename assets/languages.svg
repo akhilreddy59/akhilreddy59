@@ -7,9 +7,9 @@
 <text class="tx" x="28" y="84" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">TypeScript</text>
 <rect x="190" y="77" width="700" height="6" rx="3" class="tr"/>
 <rect class="b ac" style="animation-delay:0.0s" x="190" y="77" width="700" height="6" rx="3"/>
-<text class="mu" x="972" y="84" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">45.0%</text><text class="tx" x="28" y="118" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">JavaScript</text>
+<text class="mu" x="972" y="84" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">44.8%</text><text class="tx" x="28" y="118" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">JavaScript</text>
 <rect x="190" y="111" width="700" height="6" rx="3" class="tr"/>
-<rect class="b ins2" style="animation-delay:0.1s" x="190" y="111" width="301" height="6" rx="3"/>
+<rect class="b ins2" style="animation-delay:0.1s" x="190" y="111" width="303" height="6" rx="3"/>
 <text class="mu" x="972" y="118" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">19.4%</text><text class="tx" x="28" y="152" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">CSS</text>
 <rect x="190" y="145" width="700" height="6" rx="3" class="tr"/>
 <rect class="b ins2" style="animation-delay:0.2s" x="190" y="145" width="131" height="6" rx="3"/>
@@ -18,8 +18,8 @@
 <rect class="b ins2" style="animation-delay:0.3s" x="190" y="179" width="108" height="6" rx="3"/>
 <text class="mu" x="972" y="186" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">6.9%</text><text class="tx" x="28" y="220" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">Python</text>
 <rect x="190" y="213" width="700" height="6" rx="3" class="tr"/>
-<rect class="b ins2" style="animation-delay:0.4s" x="190" y="213" width="91" height="6" rx="3"/>
-<text class="mu" x="972" y="220" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">5.9%</text><text class="tx" x="28" y="254" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">Blade</text>
+<rect class="b ins2" style="animation-delay:0.4s" x="190" y="213" width="95" height="6" rx="3"/>
+<text class="mu" x="972" y="220" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">6.1%</text><text class="tx" x="28" y="254" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">Blade</text>
 <rect x="190" y="247" width="700" height="6" rx="3" class="tr"/>
 <rect class="b ins2" style="animation-delay:0.5s" x="190" y="247" width="83" height="6" rx="3"/>
 <text class="mu" x="972" y="254" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">5.3%</text></svg>
