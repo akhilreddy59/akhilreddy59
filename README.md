@@ -22,9 +22,7 @@ Also built: an email-to-Notion automation and voice AI pipelines in n8n.
 - **AI and automation:** Claude, OpenAI and Gemini APIs, n8n, Make
 - **Other:** Python, Netlify
 
-### Languages
-
-<!-- <img src="assets/languages.svg" alt="Most used languages" width="100%"/> -->
+<!-- ### Languages <img src="assets/languages.svg" alt="Most used languages" width="100%"/> -->
 
 ### Contact
 
