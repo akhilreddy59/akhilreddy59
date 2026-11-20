@@ -24,7 +24,7 @@ Also built: an email-to-Notion automation and voice AI pipelines in n8n.
 
 ### Languages
 
-<img src="assets/languages.svg" alt="Most used languages" width="100%"/>
+<!-- <img src="assets/languages.svg" alt="Most used languages" width="100%"/> -->
 
 ### Contact
 
