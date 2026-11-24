@@ -18,7 +18,7 @@
 <rect class="b ins2" style="animation-delay:0.3s" x="190" y="179" width="108" height="6" rx="3"/>
 <text class="mu" x="972" y="186" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">6.9%</text><text class="tx" x="28" y="220" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">Python</text>
 <rect x="190" y="213" width="700" height="6" rx="3" class="tr"/>
-<rect class="b ins2" style="animation-delay:0.4s" x="190" y="213" width="95" height="6" rx="3"/>
+<rect class="b ins2" style="animation-delay:0.4s" x="190" y="213" width="96" height="6" rx="3"/>
 <text class="mu" x="972" y="220" text-anchor="end" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">6.1%</text><text class="tx" x="28" y="254" font-size="14" font-family="-apple-system,'Segoe UI',Inter,Helvetica,Arial,sans-serif">Blade</text>
 <rect x="190" y="247" width="700" height="6" rx="3" class="tr"/>
 <rect class="b ins2" style="animation-delay:0.5s" x="190" y="247" width="83" height="6" rx="3"/>
