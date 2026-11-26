@@ -2,7 +2,7 @@
 
 I'm a Computer Science student (B.Tech, graduating 2027) who builds simple, reliable products. My core stack is MERN, and lately I build with LLM APIs and automation tools to take real manual work off people's plates. I recently completed a Full Stack & AI internship at Larsen & Toubro.
 
-[LinkedIn](https://www.linkedin.com/in/akhilkumarreddy09/)  |  [Email](mailto:akhilkumarreddy2006@gmail.com)  |  [Behance](https://www.behance.net/uppalbranch) | [Google Builders Hub](https://g.dev/akhilreddy9)
+[LinkedIn](https://www.linkedin.com/in/akhilkumarreddy09/)  |  [Email](mailto:akhilkumarreddy2006@gmail.com)  |  [Behance](https://www.behance.net/uppalbranch) | [Google Builders Hub](https://g.dev/akhilreddy9) | [Salesforce Trailblazer](https://www.salesforce.com/trailblazer/akhilreddy09)
 
 ### Selected work
 
